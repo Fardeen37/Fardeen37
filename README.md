@@ -33,7 +33,7 @@
 ```yaml
 whoami: "Data Fardeen"
 role: "AI Engineer & Full-Stack / Vibe Coder"
-university: "SZABIST Islamabad — BS Artificial Intelligence (6th Semester)"
+university: "SZABIST Islamabad — BS Artificial Intelligence (7th Semester)"
 department: "Robotics & Artificial Intelligence"
 position: "Class Representative"
 stack: ["Python", "Machine Learning", "Full-Stack", "Databases"]
@@ -93,9 +93,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🧹 Data Duplication Remover</b><br>
 <sub>Machine Learning Data Cleaning</sub><br><br>
-<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">75% COMPLETE</div>
+  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
 
@@ -104,9 +104,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🧠 Alzheimer's Expert System</b><br>
 <sub>Healthcare AI & Expert Rules</sub><br><br>
-<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">50% COMPLETE</div>
+  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
 
@@ -115,9 +115,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🎨 BrandGenAI</b><br>
 <sub>Stable Diffusion + Gradio</sub><br><br>
-<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">90% COMPLETE</div>
+  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
 
