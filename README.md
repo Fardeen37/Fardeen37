@@ -1,46 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" stop-color="#2b0a4e"/>
-      <stop offset="55%" stop-color="#1a0a3e"/>
-      <stop offset="100%" stop-color="#0d0221"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="260" fill="url(#bgGrad)"/>
-  
-  <!-- Top-Left Spider Web -->
-  <g stroke="#E62429" stroke-width="1.5" opacity="0.5" fill="none" stroke-linecap="round">
-    <line x1="0" y1="0" x2="1200" y2="0"/>
-    <line x1="0" y1="0" x2="300" y2="100"/>
-    <line x1="0" y1="0" x2="400" y2="200"/>
-    <line x1="0" y1="0" x2="300" y2="260"/>
-    <line x1="0" y1="0" x2="0" y2="260"/>
-    <line x1="0" y1="0" x2="150" y2="150"/>
-    <path d="M 100 0 A 100 100 0 0 0 0 100" />
-    <path d="M 200 0 A 200 200 0 0 0 0 200" />
-    <path d="M 300 0 A 300 300 0 0 0 0 300" />
-    <path d="M 400 0 A 400 400 0 0 0 0 400" />
-    <path d="M 500 0 A 500 500 0 0 0 0 500" />
-  </g>
-
-  <!-- Top-Right Spider Web -->
-  <g stroke="#E62429" stroke-width="1.5" opacity="0.5" fill="none" stroke-linecap="round">
-    <line x1="1200" y1="0" x2="0" y2="0"/>
-    <line x1="1200" y1="0" x2="600" y2="0"/>
-    <line x1="1200" y1="0" x2="900" y2="100"/>
-    <line x1="1200" y1="0" x2="800" y2="200"/>
-    <line x1="1200" y1="0" x2="900" y2="260"/>
-    <line x1="1200" y1="0" x2="1200" y2="260"/>
-    <line x1="1200" y1="0" x2="1050" y2="150"/>
-    <path d="M 1100 0 A 100 100 0 0 1 1200 100" />
-    <path d="M 1000 0 A 200 200 0 0 1 1200 200" />
-    <path d="M 900 0 A 300 300 0 0 1 1200 300" />
-    <path d="M 800 0 A 400 400 0 0 1 1200 400" />
-    <path d="M 700 0 A 500 500 0 0 1 1200 500" />
-  </g>
-</svg>
+<img src="header-web.svg" width="100%" alt="Spider Web Header"/>
 
 <br/>
 
@@ -273,38 +233,4 @@ Experimenting with sauce recipes when I'm not experimenting with model architect
 
 </div>
 
-<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <radialGradient id="fgGrad" cx="50%" cy="100%" r="80%">
-      <stop offset="0%" stop-color="#1a0a3e"/>
-      <stop offset="100%" stop-color="#0d0221"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="160" fill="url(#fgGrad)"/>
-
-  <!-- Bottom-Left Spider Web -->
-  <g stroke="#00d9ff" stroke-width="1.2" opacity="0.5" fill="none" stroke-linecap="round">
-    <line x1="0" y1="160" x2="1200" y2="160"/>
-    <line x1="0" y1="160" x2="300" y2="60"/>
-    <line x1="0" y1="160" x2="400" y2="-40"/>
-    <line x1="0" y1="160" x2="150" y2="0"/>
-    <line x1="0" y1="160" x2="0" y2="0"/>
-    <path d="M 100 160 A 100 100 0 0 0 0 60" />
-    <path d="M 200 160 A 200 200 0 0 0 0 -40" />
-    <path d="M 300 160 A 300 300 0 0 0 0 -140" />
-    <path d="M 400 160 A 400 400 0 0 0 0 -240" />
-  </g>
-
-  <!-- Bottom-Right Spider Web -->
-  <g stroke="#00d9ff" stroke-width="1.2" opacity="0.5" fill="none" stroke-linecap="round">
-    <line x1="1200" y1="160" x2="0" y2="160"/>
-    <line x1="1200" y1="160" x2="900" y2="60"/>
-    <line x1="1200" y1="160" x2="800" y2="-40"/>
-    <line x1="1200" y1="160" x2="1050" y2="0"/>
-    <line x1="1200" y1="160" x2="1200" y2="0"/>
-    <path d="M 1100 160 A 100 100 0 0 1 1200 60" />
-    <path d="M 1000 160 A 200 200 0 0 1 1200 -40" />
-    <path d="M 900 160 A 300 300 0 0 1 1200 -140" />
-    <path d="M 800 160 A 400 400 0 0 1 1200 -240" />
-  </g>
-</svg>
+<img src="footer-web.svg" width="100%" alt="Spider Web Footer"/>
