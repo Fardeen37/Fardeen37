@@ -1,61 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Data%20Fardeen&fontSize=60&fontColor=ff2e2e&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Automation&descAlignY=58&descSize=18&descColor=00d9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0a3e,100:2b0a4e&height=300&section=header&text=&fontSize=0" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+%40+SZABIST+Islamabad;Building+SolarGuard+AI+%E2%98%80%EF%B8%8F;Computer+Vision+%2B+NLP+%2B+Deep+Learning;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=75&duration=1&pause=100000&color=E62429,gradient&center=true&vCenter=true&width=700&height=100&lines=FARDEEN+RAZA" alt="Fardeen Raza"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Software+Developer+%7C+Vibe+Coder+%E2%9A%A1;BS+Artificial+Intelligence+%40+SZABIST+Islamabad;Computer+Vision+%2B+NLP+%2B+Deep+Learning;Fly+Solo+%26+Don%27t+Look+Back+%E2%9A%9C%EF%B8%8F" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://datafardeen.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221"/></a>
+<a href="https://www.linkedin.com/in/data-fardeen-234619289"><img src="https://img.shields.io/badge/LINKEDIN-e62429?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0d0221"/></a>
+<a href="https://www.instagram.com/fardeen_sidhu"><img src="https://img.shields.io/badge/INSTAGRAM-e62429?style=for-the-badge&logo=instagram&logoColor=00d9ff&labelColor=0d0221"/></a>
+<a href="https://codex-ai-live.netlify.app/"><img src="https://img.shields.io/badge/CODEX%20AI-e62429?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d0221"/></a>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:E62429,50:00d9ff,100:0d0221&height=4&section=header" width="100%"/>
+
 <br/>
 
-<table align="center">
-<tr>
-<td width="100%">
+<table align="center" width="100%">
+<tr><td>
 
 <div align="center">
 
-### ⚡ About Me
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26"/> <b>SWINGING THROUGH CODE, ONE COMMIT AT A TIME</b> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26"/>
 
 </div>
 
 ```yaml
-name: "Fardeen Raza"
-role: "AI Engineer & Python Developer"
+whoami: "Fardeen Raza (a.k.a Data Fardeen)"
+role: "AI Engineer & Full-Stack / Vibe Coder"
 university: "SZABIST Islamabad — BS Artificial Intelligence (6th Semester)"
-department: "Robotics and Artificial Intelligence"
-focus: ["Computer Vision", "NLP", "Deep Learning", "Workflow Automation"]
+department: "Robotics & Artificial Intelligence"
 position: "Class Representative"
-currently_building: "SolarGuard AI — Solar Diagnostics for Pakistan"
-status: "Shipping real products, not just notebooks 🚀"
+stack: ["Python", "Machine Learning", "Full-Stack", "Databases"]
+mission: "Building major projects & shipping fun side projects 🚀"
+status: "Currently leveling up repos below — actively pushing commits ⚡"
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-### 🧠 Tech Arsenal
+## 🕸️ Tech Web
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,react,threejs,nodejs,mongodb,mysql,git,github,vscode,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,react,threejs,nodejs,mongodb,mysql,git,github,vscode,linux,figma,html,css,js,docker&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PyTorch-14354C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TensorFlow-14354C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ONNX-14354C?style=for-the-badge&logo=onnx&logoColor=005CED&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-e62429?style=for-the-badge&logo=python&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Machine%20Learning-e62429?style=for-the-badge&logo=scikitlearn&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/PyTorch-e62429?style=for-the-badge&logo=pytorch&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/TensorFlow-e62429?style=for-the-badge&logo=tensorflow&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/OpenCV-e62429?style=for-the-badge&logo=opencv&logoColor=00d9ff&labelColor=0d0221" />
 <br/>
-<img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Three.js-14354C?style=for-the-badge&logo=three.js&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Gradio-14354C?style=for-the-badge&logo=gradio&logoColor=FF7C00&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Jupyter-e62429?style=for-the-badge&logo=jupyter&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Gradio-e62429?style=for-the-badge&logo=gradio&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Flask-e62429?style=for-the-badge&logo=flask&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/React-e62429?style=for-the-badge&logo=react&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Node.js-e62429?style=for-the-badge&logo=node.js&logoColor=00d9ff&labelColor=0d0221" />
+<br/>
+<img src="https://img.shields.io/badge/MySQL-e62429?style=for-the-badge&logo=mysql&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/MongoDB-e62429?style=for-the-badge&logo=mongodb&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Netlify-e62429?style=for-the-badge&logo=netlify&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Git-e62429?style=for-the-badge&logo=git&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/VS%20Code-e62429?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff&labelColor=0d0221" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:00d9ff,100:E62429&height=4&section=header" width="100%"/>
+
+<div align="center">
+
+## 🚧 Actively Working On
+
+<i>These aren't side notes — they're live, in-progress builds getting pushed to right now</i>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=Data-Duplication-Remover-ML&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
+</a>
+
+`🔴 In Progress` `ML` `Data Cleaning`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=ALZHEIMERS-DISEASE-EXPERT-SYSTEM&theme=dark&bg_color=0d0221&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
+</a>
+
+`🔴 In Progress` `Expert System` `Healthcare AI`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/Fardeen37/BRANDGENAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=BRANDGENAI&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
+</a>
+
+`🔴 In Progress` `Stable Diffusion` `Gradio`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>📌 Pulled directly from my pinned repositories — check the <a href="https://github.com/Fardeen37?tab=repositories">full repo list</a> for everything else I'm shipping.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:E62429,50:00d9ff,100:0d0221&height=4&section=header" width="100%"/>
+
+<div align="center">
+
+## 📊 Live Stats Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fardeen37&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00d9ff&icon_color=e62429&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen37&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00d9ff&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Fardeen37&theme=radical&hide_border=true&background=0D0221&ring=E62429&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fardeen37&theme=redial&bg_color=0d0221&color=00d9ff&line=e62429&point=ffffff&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -63,60 +151,58 @@ status: "Shipping real products, not just notebooks 🚀"
 
 <div align="center">
 
-### 🛰️ Featured Builds
+## 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fardeen37&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:00d9ff,100:E62429&height=4&section=header" width="100%"/>
+
+<div align="center">
+
+## 🕷️ Contribution Web
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fardeen37&custom_title=Fardeen's%20Contribution%20Web&theme=react-dark&bg_color=0d0221&color=e62429&line=00d9ff&point=ffffff&area_color=e62429&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⚡ Fun Fact Feed
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div style="border:1px solid #2a2a3d; border-radius:12px; padding:16px; background:linear-gradient(135deg, rgba(255,46,46,0.08), rgba(0,217,255,0.08));">
-
-**☀️ SolarGuard AI**
-White-label B2B SaaS for the Pakistani solar market. Client-side ONNX MobileNetV2 detects panel dust/damage, calculates real financial loss using NASA irradiance data + NEPRA 2026 tariffs, and drives a single WhatsApp CTA. Zero backend, fully stateless.
-
-`ONNX` `Computer Vision` `SaaS` `NASA POWER API`
-
-</div>
+**🎓 Currently**
+Class Representative & 6th-semester BS-AI student at SZABIST Islamabad, Department of Robotics and AI.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div style="border:1px solid #2a2a3d; border-radius:12px; padding:16px; background:linear-gradient(135deg, rgba(255,46,46,0.08), rgba(0,217,255,0.08));">
-
-**🎭 MaskGuard AI**
-Dual-model computer vision system — MobileNetV2 CNN + HOG/Gabor/PCA/SVM — wrapped in a 4-tab Gradio app with webcam, image, video & CBIR support, plus Gemini multimodal scene analysis.
-
-`CNN` `SVM` `Gradio` `Gemini API`
-
-</div>
+**🎯 Focus Zone**
+Computer Vision, NLP, Deep Learning & workflow automation — turning notebooks into shipped products.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div style="border:1px solid #2a2a3d; border-radius:12px; padding:16px; background:linear-gradient(135deg, rgba(255,46,46,0.08), rgba(0,217,255,0.08));">
-
-**📡 GOONJ — Acoustic Edge-Radar**
-Polyphonic acoustic-based vehicle threat detection system, built as a SZABIST project defense with a full technical presentation and team collaboration.
-
-`Signal Processing` `Edge AI` `Team Project`
-
-</div>
+**🏁 Off-duty**
+High-performance automotive culture, gaming, and dark-glass UI aesthetics.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div style="border:1px solid #2a2a3d; border-radius:12px; padding:16px; background:linear-gradient(135deg, rgba(255,46,46,0.08), rgba(0,217,255,0.08));">
-
-**🔍 ForensicLens**
-Image tampering detection suite — ELA, noise inconsistency, copy-move, EXIF & JPEG ghost analysis wrapped in a dark forensic terminal UI.
-
-`Digital Forensics` `Image Analysis`
-
-</div>
+**🍳 Side quest**
+Experimenting with sauce recipes when I'm not experimenting with model architectures.
 
 </td>
 </tr>
@@ -124,47 +210,27 @@ Image tampering detection suite — ELA, noise inconsistency, copy-move, EXIF & 
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:E62429,50:00d9ff,100:0d0221&height=4&section=header" width="100%"/>
+
 <div align="center">
 
-### 📊 GitHub Analytics
+## 📡 Let's Connect
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fardeen37&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e2e&text_color=c9d1d9&count_private=true" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen37&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fardeen37&theme=dark&hide_border=true&background=0d1117&ring=ff2e2e&fire=00d9ff&currStreakLabel=00d9ff" width="70%"/>
+<a href="https://datafardeen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221" /></a>
+<a href="https://www.linkedin.com/in/data-fardeen-234619289"><img src="https://img.shields.io/badge/LinkedIn-e62429?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0d0221" /></a>
+<a href="https://www.instagram.com/fardeen_sidhu"><img src="https://img.shields.io/badge/Instagram-e62429?style=for-the-badge&logo=instagram&logoColor=00d9ff&labelColor=0d0221" /></a>
+<a href="https://codex-ai-live.netlify.app/"><img src="https://img.shields.io/badge/Codex%20AI-e62429?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d0221" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fardeen37&theme=react-dark&bg_color=0d1117&color=00d9ff&line=ff2e2e&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fardeen37&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-14354C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
-<a href="https://github.com/Fardeen37"><img src="https://img.shields.io/badge/GitHub-14354C?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Fardeen37&style=for-the-badge&color=e62429&labelColor=0d0221" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Fardeen37?style=for-the-badge&color=00d9ff&labelColor=0d0221&logo=github" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Fardeen37&style=for-the-badge&color=ff2e2e&labelColor=0d1117" />
+<img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=30&duration=2500&pause=1000&color=E62429,gradient&center=true&vCenter=true&width=500&lines=With+great+code+comes+great+responsibility." />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2b0a4e,50:1a0a3e,100:0d0221&height=180&section=footer" width="100%"/>
