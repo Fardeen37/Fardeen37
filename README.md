@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://datafardeen.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221"/></a>
+<a href="https://datafardeenportfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221"/></a>
 <a href="https://www.linkedin.com/in/data-fardeen-234619289"><img src="https://img.shields.io/badge/LINKEDIN-e62429?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0d0221"/></a>
 <a href="https://www.instagram.com/fardeen_sidhu"><img src="https://img.shields.io/badge/INSTAGRAM-e62429?style=for-the-badge&logo=instagram&logoColor=00d9ff&labelColor=0d0221"/></a>
 <a href="https://codex-ai-live.netlify.app/"><img src="https://img.shields.io/badge/CODEX%20AI-e62429?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d0221"/></a>
@@ -80,9 +80,8 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <div align="center">
 
-## 🚧 Actively Working On
-
-<i>These aren't side notes — they're live, in-progress builds getting pushed to right now</i>
+## 🚨 Active Mission Objectives
+<i>System currently tracking live builds and web-swinging deployments</i>
 
 </div>
 
@@ -92,29 +91,35 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=Data-Duplication-Remover-ML&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
-</a>
-
-<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/ML-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Data_Cleaning-00d9ff?style=flat-square&labelColor=0d0221"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=ALZHEIMERS-DISEASE-EXPERT-SYSTEM&theme=dark&bg_color=0d0221&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
-</a>
-
-<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Expert_System-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Healthcare_AI-00d9ff?style=flat-square&labelColor=0d0221"/>
+<b>🧹 Data Duplication Remover</b><br>
+<sub>Machine Learning Data Cleaning</sub><br><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
+  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">75% COMPLETE</div>
+</div>
+<br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Fardeen37/BRANDGENAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=BRANDGENAI&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
-</a>
+<b>🧠 Alzheimer's Expert System</b><br>
+<sub>Healthcare AI & Expert Rules</sub><br><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
+  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">50% COMPLETE</div>
+</div>
+<br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
 
-<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Stable_Diffusion-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Gradio-00d9ff?style=flat-square&labelColor=0d0221"/>
+</td>
+<td width="33%" valign="top" align="center">
+
+<b>🎨 BrandGenAI</b><br>
+<sub>Stable Diffusion + Gradio</sub><br><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
+<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
+  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">90% COMPLETE</div>
+</div>
+<br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
 
 </td>
 </tr>
@@ -132,7 +137,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <div align="center">
 
-## 📊 Live Stats Dashboard
+## 🕷️ Spidey-Sense Telemetry
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fardeen37&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00d9ff&icon_color=e62429&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen37&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00d9ff&text_color=c9d1d9" />
@@ -163,7 +168,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <div align="center">
 
-## 🕷️ Contribution Web
+## 🕸️ Contribution Web
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fardeen37&custom_title=Fardeen's%20Contribution%20Web&theme=react-dark&bg_color=0d0221&color=e62429&line=00d9ff&point=ffffff&area_color=e62429&hide_border=true" width="95%"/>
 
@@ -173,7 +178,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <div align="center">
 
-## ⚡ Fun Fact Feed
+## 📰 The Daily Bugle Feed
 
 </div>
 
@@ -181,27 +186,27 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 <tr>
 <td width="50%" valign="top" align="center">
 
-**🎓 Currently**
-Class Representative & 6th-semester BS-AI student at SZABIST Islamabad, Department of Robotics and AI.
+**🕵️ Identity**
+By day: BS-AI Student & Class Rep at SZABIST Islamabad. By night: Vibe Coder & AI Engineer.
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🎯 Focus Zone**
-Computer Vision, NLP, Deep Learning & workflow automation — turning notebooks into shipped products.
+**🎯 Target Locked**
+Computer Vision, NLP, and Deep Learning. Turning raw notebooks into shipped products.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-**🏁 Off-duty**
+**🏎️ Off-Duty**
 High-performance automotive culture, gaming, and dark-glass UI aesthetics.
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**🍳 Side quest**
+**🍳 Side Quests**
 Experimenting with sauce recipes when I'm not experimenting with model architectures.
 
 </td>
@@ -214,9 +219,26 @@ Experimenting with sauce recipes when I'm not experimenting with model architect
 
 <div align="center">
 
+## 🛰️ System Status HUD
+
+<img src="https://img.shields.io/badge/Spider_Sense-TINGLING-e62429?style=for-the-badge&logo=spider-man&logoColor=00d9ff&labelColor=0d0221" />
+<br/><br/>
+
+> 🕸️ **System Note:** This profile is dynamically tracked. 
+> ```bash
+> $ git commit -m "With great code comes great responsibility"
+> [main 1a2b3c4] Swinging to main branch...
+> ```
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 📡 Let's Connect
 
-<a href="https://datafardeen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221" /></a>
+<a href="https://datafardeenportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-e62429?style=for-the-badge&logo=firefox&logoColor=00d9ff&labelColor=0d0221" /></a>
 <a href="https://www.linkedin.com/in/data-fardeen-234619289"><img src="https://img.shields.io/badge/LinkedIn-e62429?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0d0221" /></a>
 <a href="https://www.instagram.com/fardeen_sidhu"><img src="https://img.shields.io/badge/Instagram-e62429?style=for-the-badge&logo=instagram&logoColor=00d9ff&labelColor=0d0221" /></a>
 <a href="https://codex-ai-live.netlify.app/"><img src="https://img.shields.io/badge/Codex%20AI-e62429?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d0221" /></a>
