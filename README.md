@@ -1,10 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a0a3e,100:2b0a4e&height=300&section=header&text=&fontSize=0" width="100%"/>
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#2b0a4e"/>
+      <stop offset="55%" stop-color="#1a0a3e"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+  <g stroke="#E62429" stroke-width="1.4" opacity="0.55" fill="none">
+    <line x1="600" y1="130" x2="0" y2="0"/><line x1="600" y1="130" x2="200" y2="0"/>
+    <line x1="600" y1="130" x2="400" y2="0"/><line x1="600" y1="130" x2="600" y2="0"/>
+    <line x1="600" y1="130" x2="800" y2="0"/><line x1="600" y1="130" x2="1000" y2="0"/>
+    <line x1="600" y1="130" x2="1200" y2="0"/><line x1="600" y1="130" x2="0" y2="260"/>
+    <line x1="600" y1="130" x2="200" y2="260"/><line x1="600" y1="130" x2="400" y2="260"/>
+    <line x1="600" y1="130" x2="600" y2="260"/><line x1="600" y1="130" x2="800" y2="260"/>
+    <line x1="600" y1="130" x2="1000" y2="260"/><line x1="600" y1="130" x2="1200" y2="260"/>
+    <circle cx="600" cy="130" r="40"/><circle cx="600" cy="130" r="90"/>
+    <circle cx="600" cy="130" r="150"/><circle cx="600" cy="130" r="220"/>
+    <circle cx="600" cy="130" r="300"/>
+  </g>
+</svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=75&duration=1&pause=100000&color=E62429,gradient&center=true&vCenter=true&width=700&height=100&lines=FARDEEN+RAZA" alt="Fardeen Raza"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=75&duration=1&pause=100000&color=E62429,gradient&center=true&vCenter=true&width=700&height=100&lines=DATA+FARDEEN" alt="Data Fardeen"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Software+Developer+%7C+Vibe+Coder+%E2%9A%A1;BS+Artificial+Intelligence+%40+SZABIST+Islamabad;Computer+Vision+%2B+NLP+%2B+Deep+Learning;Fly+Solo+%26+Don%27t+Look+Back+%E2%9A%9C%EF%B8%8F" alt="Typing SVG"/>
 
@@ -26,12 +47,12 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26"/> <b>SWINGING THROUGH CODE, ONE COMMIT AT A TIME</b> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26"/>
+🕸️ <b>SWINGING THROUGH CODE, ONE COMMIT AT A TIME</b> 🕸️
 
 </div>
 
 ```yaml
-whoami: "Fardeen Raza (a.k.a Data Fardeen)"
+whoami: "Data Fardeen"
 role: "AI Engineer & Full-Stack / Vibe Coder"
 university: "SZABIST Islamabad — BS Artificial Intelligence (6th Semester)"
 department: "Robotics & Artificial Intelligence"
@@ -96,7 +117,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=Data-Duplication-Remover-ML&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
 </a>
 
-`🔴 In Progress` `ML` `Data Cleaning`
+<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/ML-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Data_Cleaning-00d9ff?style=flat-square&labelColor=0d0221"/>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -105,7 +126,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=ALZHEIMERS-DISEASE-EXPERT-SYSTEM&theme=dark&bg_color=0d0221&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
 </a>
 
-`🔴 In Progress` `Expert System` `Healthcare AI`
+<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Expert_System-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Healthcare_AI-00d9ff?style=flat-square&labelColor=0d0221"/>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -114,7 +135,7 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fardeen37&repo=BRANDGENAI&theme=dark&bg_color=0d0221&border_color=e62429&title_color=00d9ff&text_color=c9d1d9&icon_color=e62429" width="100%"/>
 </a>
 
-`🔴 In Progress` `Stable Diffusion` `Gradio`
+<img src="https://img.shields.io/badge/●_IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Stable_Diffusion-00d9ff?style=flat-square&labelColor=0d0221"/> <img src="https://img.shields.io/badge/Gradio-00d9ff?style=flat-square&labelColor=0d0221"/>
 
 </td>
 </tr>
@@ -233,4 +254,19 @@ Experimenting with sauce recipes when I'm not experimenting with model architect
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2b0a4e,50:1a0a3e,100:0d0221&height=180&section=footer" width="100%"/>
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="fgGrad" cx="50%" cy="60%" r="80%">
+      <stop offset="0%" stop-color="#1a0a3e"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="160" fill="url(#fgGrad)"/>
+  <g stroke="#00d9ff" stroke-width="1.2" opacity="0.5" fill="none">
+    <line x1="600" y1="160" x2="100" y2="160"/><line x1="600" y1="160" x2="300" y2="20"/>
+    <line x1="600" y1="160" x2="600" y2="0"/><line x1="600" y1="160" x2="900" y2="20"/>
+    <line x1="600" y1="160" x2="1100" y2="160"/>
+    <circle cx="600" cy="160" r="60"/><circle cx="600" cy="160" r="120"/>
+    <circle cx="600" cy="160" r="190"/>
+  </g>
+</svg>
