@@ -201,13 +201,13 @@ Computer Vision, NLP, and Deep Learning. Turning raw notebooks into shipped prod
 <td width="50%" valign="top" align="center">
 
 **🏎️ Off-Duty**
-High-performance automotive culture, gaming, and dark-glass UI aesthetics.
+High-performance automotive culture, gaming, and music.
 
 </td>
 <td width="50%" valign="top" align="center">
 
 **🍳 Side Quests**
-Experimenting with sauce recipes when I'm not experimenting with model architectures.
+Experimenting with baking & trying different sauce recipes when I'm not experimenting with model architectures.
 
 </td>
 </tr>
