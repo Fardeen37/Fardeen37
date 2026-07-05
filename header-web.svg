@@ -1,0 +1,29 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#2b0a4e"/>
+      <stop offset="55%" stop-color="#1a0a3e"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+  <g stroke="#E62429" stroke-width="1.5" opacity="0.6" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 8 Radiating Spokes -->
+    <line x1="600" y1="130" x2="1000" y2="130"/>
+    <line x1="600" y1="130" x2="882.8" y2="412.8"/>
+    <line x1="600" y1="130" x2="600" y2="530"/>
+    <line x1="600" y1="130" x2="317.2" y2="412.8"/>
+    <line x1="600" y1="130" x2="200" y2="130"/>
+    <line x1="600" y1="130" x2="317.2" y2="-152.8"/>
+    <line x1="600" y1="130" x2="600" y2="-270"/>
+    <line x1="600" y1="130" x2="882.8" y2="-152.8"/>
+    <!-- Concentric Web Rings -->
+    <polygon points="640,130 628.3,158.3 600,170 571.7,158.3 560,130 571.7,101.7 600,90 628.3,101.7"/>
+    <polygon points="680,130 656.6,186.6 600,210 543.4,186.6 520,130 543.4,73.4 600,50 656.6,73.4"/>
+    <polygon points="730,130 691.9,221.9 600,260 508.1,221.9 470,130 508.1,38.1 600,0 691.9,38.1"/>
+    <polygon points="800,130 741.4,271.4 600,330 458.6,271.4 400,130 458.6,-11.4 600,-70 741.4,-11.4"/>
+    <polygon points="900,130 812.1,342.1 600,430 387.9,342.1 300,130 387.9,-82.1 600,-170 812.1,-82.1"/>
+  </g>
+  <!-- Center Hub -->
+  <circle cx="600" cy="130" r="4" fill="#00d9ff" opacity="0.9"/>
+</svg>
