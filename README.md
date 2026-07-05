@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-web.svg" width="100%" alt="Spider Web Header"/>
+<img src="header-web.svg?v=2" width="100%" alt="Spider Web Header"/>
 
 <br/>
 
