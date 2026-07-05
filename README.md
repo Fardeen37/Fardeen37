@@ -9,36 +9,37 @@
     </radialGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#bgGrad)"/>
-  <g stroke="#E62429" stroke-width="1.2" fill="none" opacity="0.6" stroke-linejoin="round" stroke-linecap="round">
-    <!-- Anchor threads to corners + edges -->
-    <line x1="600" y1="130" x2="0" y2="0"/>
-    <line x1="600" y1="130" x2="300" y2="0"/>
-    <line x1="600" y1="130" x2="900" y2="0"/>
-    <line x1="600" y1="130" x2="1200" y2="0"/>
-    <line x1="600" y1="130" x2="0" y2="260"/>
-    <line x1="600" y1="130" x2="300" y2="260"/>
-    <line x1="600" y1="130" x2="900" y2="260"/>
-    <line x1="600" y1="130" x2="1200" y2="260"/>
-    <!-- 12 radial spokes -->
-    <line x1="600" y1="130" x2="730" y2="130"/>
-    <line x1="600" y1="130" x2="713" y2="195"/>
-    <line x1="600" y1="130" x2="665" y2="243"/>
-    <line x1="600" y1="130" x2="600" y2="260"/>
-    <line x1="600" y1="130" x2="535" y2="243"/>
-    <line x1="600" y1="130" x2="487" y2="195"/>
-    <line x1="600" y1="130" x2="470" y2="130"/>
-    <line x1="600" y1="130" x2="487" y2="65"/>
-    <line x1="600" y1="130" x2="535" y2="17"/>
-    <line x1="600" y1="130" x2="600" y2="0"/>
-    <line x1="600" y1="130" x2="665" y2="17"/>
-    <line x1="600" y1="130" x2="713" y2="65"/>
-    <!-- Concentric polygonal web rings -->
-    <polygon points="630,130 626,145 615,156 600,160 585,156 574,145 570,130 574,115 585,104 600,100 615,104 626,115"/>
-    <polygon points="660,130 652,160 630,182 600,190 570,182 548,160 540,130 548,100 570,78 600,70 630,78 652,100"/>
-    <polygon points="695,130 682,178 648,212 600,225 552,212 518,178 505,130 518,82 552,48 600,35 648,48 682,82"/>
-    <polygon points="730,130 713,195 665,243 600,260 535,243 487,195 470,130 487,65 535,17 600,0 665,17 713,65"/>
+  
+  <!-- Top-Left Spider Web -->
+  <g stroke="#E62429" stroke-width="1.5" opacity="0.5" fill="none" stroke-linecap="round">
+    <line x1="0" y1="0" x2="1200" y2="0"/>
+    <line x1="0" y1="0" x2="300" y2="100"/>
+    <line x1="0" y1="0" x2="400" y2="200"/>
+    <line x1="0" y1="0" x2="300" y2="260"/>
+    <line x1="0" y1="0" x2="0" y2="260"/>
+    <line x1="0" y1="0" x2="150" y2="150"/>
+    <path d="M 100 0 A 100 100 0 0 0 0 100" />
+    <path d="M 200 0 A 200 200 0 0 0 0 200" />
+    <path d="M 300 0 A 300 300 0 0 0 0 300" />
+    <path d="M 400 0 A 400 400 0 0 0 0 400" />
+    <path d="M 500 0 A 500 500 0 0 0 0 500" />
   </g>
-  <circle cx="600" cy="130" r="3.5" fill="#00d9ff" opacity="0.95"/>
+
+  <!-- Top-Right Spider Web -->
+  <g stroke="#E62429" stroke-width="1.5" opacity="0.5" fill="none" stroke-linecap="round">
+    <line x1="1200" y1="0" x2="0" y2="0"/>
+    <line x1="1200" y1="0" x2="600" y2="0"/>
+    <line x1="1200" y1="0" x2="900" y2="100"/>
+    <line x1="1200" y1="0" x2="800" y2="200"/>
+    <line x1="1200" y1="0" x2="900" y2="260"/>
+    <line x1="1200" y1="0" x2="1200" y2="260"/>
+    <line x1="1200" y1="0" x2="1050" y2="150"/>
+    <path d="M 1100 0 A 100 100 0 0 1 1200 100" />
+    <path d="M 1000 0 A 200 200 0 0 1 1200 200" />
+    <path d="M 900 0 A 300 300 0 0 1 1200 300" />
+    <path d="M 800 0 A 400 400 0 0 1 1200 400" />
+    <path d="M 700 0 A 500 500 0 0 1 1200 500" />
+  </g>
 </svg>
 
 <br/>
@@ -280,27 +281,30 @@ Experimenting with sauce recipes when I'm not experimenting with model architect
     </radialGradient>
   </defs>
   <rect width="1200" height="160" fill="url(#fgGrad)"/>
-  <g stroke="#00d9ff" stroke-width="1.1" fill="none" opacity="0.55" stroke-linejoin="round" stroke-linecap="round">
-    <!-- Anchor threads -->
-    <line x1="600" y1="160" x2="200" y2="160"/>
-    <line x1="600" y1="160" x2="1000" y2="160"/>
-    <line x1="600" y1="160" x2="350" y2="0"/>
-    <line x1="600" y1="160" x2="850" y2="0"/>
-    <!-- 9 radial spokes (upper half) -->
-    <line x1="600" y1="160" x2="450" y2="160"/>
-    <line x1="600" y1="160" x2="461.4" y2="102.6"/>
-    <line x1="600" y1="160" x2="494" y2="54"/>
-    <line x1="600" y1="160" x2="542.6" y2="21.4"/>
-    <line x1="600" y1="160" x2="600" y2="10"/>
-    <line x1="600" y1="160" x2="657.5" y2="21.4"/>
-    <line x1="600" y1="160" x2="706.1" y2="54"/>
-    <line x1="600" y1="160" x2="738.6" y2="102.6"/>
-    <line x1="600" y1="160" x2="750" y2="160"/>
-    <!-- Concentric half-web polygon rings -->
-    <polygon points="560,160 563,144.7 571.7,131.7 584.7,123 600,120 615.3,123 628.3,131.7 637,144.7 640,160"/>
-    <polygon points="520,160 526.1,129.4 543.4,103.4 569.4,86.1 600,80 630.6,86.1 656.6,103.4 673.9,129.4 680,160"/>
-    <polygon points="480,160 489.1,114 515.2,75.2 554,49.1 600,40 646,49.1 684.8,75.2 710.9,114 720,160"/>
-    <polygon points="450,160 461.4,102.6 494,54 542.6,21.4 600,10 657.5,21.4 706.1,54 738.6,102.6 750,160"/>
+
+  <!-- Bottom-Left Spider Web -->
+  <g stroke="#00d9ff" stroke-width="1.2" opacity="0.5" fill="none" stroke-linecap="round">
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="160" x2="300" y2="60"/>
+    <line x1="0" y1="160" x2="400" y2="-40"/>
+    <line x1="0" y1="160" x2="150" y2="0"/>
+    <line x1="0" y1="160" x2="0" y2="0"/>
+    <path d="M 100 160 A 100 100 0 0 0 0 60" />
+    <path d="M 200 160 A 200 200 0 0 0 0 -40" />
+    <path d="M 300 160 A 300 300 0 0 0 0 -140" />
+    <path d="M 400 160 A 400 400 0 0 0 0 -240" />
   </g>
-  <circle cx="600" cy="160" r="3" fill="#E62429" opacity="0.95"/>
+
+  <!-- Bottom-Right Spider Web -->
+  <g stroke="#00d9ff" stroke-width="1.2" opacity="0.5" fill="none" stroke-linecap="round">
+    <line x1="1200" y1="160" x2="0" y2="160"/>
+    <line x1="1200" y1="160" x2="900" y2="60"/>
+    <line x1="1200" y1="160" x2="800" y2="-40"/>
+    <line x1="1200" y1="160" x2="1050" y2="0"/>
+    <line x1="1200" y1="160" x2="1200" y2="0"/>
+    <path d="M 1100 160 A 100 100 0 0 1 1200 60" />
+    <path d="M 1000 160 A 200 200 0 0 1 1200 -40" />
+    <path d="M 900 160 A 300 300 0 0 1 1200 -140" />
+    <path d="M 800 160 A 400 400 0 0 1 1200 -240" />
+  </g>
 </svg>
