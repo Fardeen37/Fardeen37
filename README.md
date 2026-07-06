@@ -58,41 +58,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 ## 📡 Spider-Sense Radar
 <i>Tracking nearby commits and bugs...</i><br/><br/>
 
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="radarBg" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#1a0a3e" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#0d0221" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="sweepGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0.6"/>
-    </linearGradient>
-  </defs>
-  <circle cx="100" cy="100" r="90" fill="url(#radarBg)" stroke="#E62429" stroke-width="1.5" opacity="0.7"/>
-  <circle cx="100" cy="100" r="60" fill="none" stroke="#E62429" stroke-width="1" opacity="0.5"/>
-  <circle cx="100" cy="100" r="30" fill="none" stroke="#E62429" stroke-width="1" opacity="0.5"/>
-  <line x1="10" y1="100" x2="190" y2="100" stroke="#E62429" stroke-width="1" opacity="0.3"/>
-  <line x1="100" y1="10" x2="100" y2="190" stroke="#E62429" stroke-width="1" opacity="0.3"/>
-  
-  <!-- Radar Targets (Commits) -->
-  <circle cx="140" cy="70" r="3" fill="#E62429">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="60" cy="120" r="3" fill="#E62429">
-    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="110" cy="150" r="3" fill="#E62429">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Radar Sweep -->
-  <path d="M 100 100 L 190 100 A 90 90 0 0 0 100 10 Z" fill="url(#sweepGrad)" opacity="0.5">
-    <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="4s" repeatCount="indefinite"/>
-  </path>
-  
-  <circle cx="100" cy="100" r="4" fill="#00d9ff"/>
-</svg>
+<img src="radar.svg?v=2" width="200" alt="Spider-Sense Radar"/>
 
 </div>
 
@@ -145,33 +111,27 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <b>🧹 Data Duplication Remover</b><br>
 <sub>Machine Learning Data Cleaning</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
-<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
-</div>
-<br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
+<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<br><br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
 <b>🧠 Alzheimer's Expert System</b><br>
 <sub>Healthcare AI & Expert Rules</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
-<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
-</div>
-<br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
+<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<br><br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
 <b>🎨 BrandGenAI</b><br>
 <sub>Stable Diffusion + Gradio</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
-<div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
-</div>
-<br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
+<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
+<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<br><br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
 
 </td>
 </tr>
@@ -200,14 +160,10 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <br/><br/>
 
-<h3>🦠 2024 Vibe Coder Progress</h3>
+<h3>🦠 2026 Vibe Coder Progress</h3>
 <sub>Defeating the "Procrastination Boss" one commit at a time</sub><br/><br/>
 
-<div style="width:80%;background-color:#0d0221;border:2px solid #E62429;border-radius:8px;padding:5px;margin:auto;">
-  <div style="width:45%;background:linear-gradient(90deg, #E62429, #00d9ff);padding:8px;border-radius:4px;text-align:left;font-weight:bold;color:white;font-size:12px;">
-    HP: 450 / 1000 
-  </div>
-</div>
+<img src="https://progress-bar.dev/45/?title=HP%20450%20%2F%201000&color=E62429&width=500" alt="Boss HP Bar" /><br/>
 <sub>*Updates dynamically based on yearly commits*</sub>
 
 <br/><br/>
