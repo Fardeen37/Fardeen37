@@ -112,7 +112,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 <b>🧹 Data Duplication Remover</b><br>
 <sub>Machine Learning Data Cleaning</sub><br><br>
 <img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
-<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<img src="mission-bar.svg?v=2" width="200" alt="Progress" />
 <br><br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
 
 </td>
@@ -121,7 +121,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 <b>🧠 Alzheimer's Expert System</b><br>
 <sub>Healthcare AI & Expert Rules</sub><br><br>
 <img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
-<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<img src="mission-bar.svg?v=2" width="200" alt="Progress" />
 <br><br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
 
 </td>
@@ -130,7 +130,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 <b>🎨 BrandGenAI</b><br>
 <sub>Stable Diffusion + Gradio</sub><br><br>
 <img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br><br>
-<img src="https://progress-bar.dev/100/?title=100%25%20COMPLETE&color=00d9ff&width=200" alt="Progress" />
+<img src="mission-bar.svg?v=2" width="200" alt="Progress" />
 <br><br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
 
 </td>
@@ -163,7 +163,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 <h3>🦠 2026 Vibe Coder Progress</h3>
 <sub>Defeating the "Procrastination Boss" one commit at a time</sub><br/><br/>
 
-<img src="https://progress-bar.dev/45/?title=HP%20450%20%2F%201000&color=E62429&width=500" alt="Boss HP Bar" /><br/>
+<img src="boss-bar.svg?v=2" width="500" alt="Boss HP Bar" /><br/>
 <sub>*Updates dynamically based on yearly commits*</sub>
 
 <br/><br/>
