@@ -30,15 +30,22 @@
 
 </div>
 
-```yaml
-whoami: "Data Fardeen"
-role: "AI Engineer & Full-Stack / Vibe Coder"
-university: "SZABIST Islamabad — BS Artificial Intelligence (7th Semester)"
-department: "Robotics & Artificial Intelligence"
-position: "Class Representative"
-stack: ["Python", "Machine Learning", "Full-Stack", "Databases"]
-mission: "Building major projects & shipping fun side projects 🚀"
-status: "Currently leveling up repos below — actively pushing commits ⚡"
+```bash
+# System Booting...
+> whoami
+Data Fardeen
+> role
+AI Engineer & Full Stack / Vibe Coder ⚡
+> university
+SZABIST Islamabad (BS Artificial Intelligence - 6th Semester)
+> department
+Robotics & Artificial Intelligence (Class Representative)
+> stack
+["Python", "Machine Learning", "Full Stack", "Databases"]
+> mission
+Building major projects & shipping fun side projects 🚀
+> status
+Currently leveling up repos below — actively pushing commits ⚡
 ```
 
 </td></tr>
@@ -93,9 +100,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🧹 Data Duplication Remover</b><br>
 <sub>Machine Learning Data Cleaning</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
+  <div style="width:75%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">75% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/Data-Duplication-Remover-ML">🔗 View Repository</a>
 
@@ -104,9 +111,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🧠 Alzheimer's Expert System</b><br>
 <sub>Healthcare AI & Expert Rules</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
+  <div style="width:50%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">50% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/ALZHEIMERS-DISEASE-EXPERT-SYSTEM">🔗 View Repository</a>
 
@@ -115,9 +122,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <b>🎨 BrandGenAI</b><br>
 <sub>Stable Diffusion + Gradio</sub><br><br>
-<img src="https://img.shields.io/badge/Status-Completed-e62429?style=flat-square&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/Status-IN_PROGRESS-e62429?style=flat-square&labelColor=0d0221" /><br>
 <div style="width:100%;background-color:#1a0a3e;border-radius:5px;border:1px solid #e62429;margin-top:5px;">
-  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">100% COMPLETE</div>
+  <div style="width:90%;background-color:#00d9ff;padding:5px;border-radius:4px;font-size:10px;color:#0d0221;font-weight:bold;">90% COMPLETE</div>
 </div>
 <br><a href="https://github.com/Fardeen37/BRANDGENAI">🔗 View Repository</a>
 
@@ -168,9 +175,9 @@ status: "Currently leveling up repos below — actively pushing commits ⚡"
 
 <div align="center">
 
-## 🕸️ Contribution Web
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fardeen37&custom_title=Fardeen's%20Contribution%20Web&theme=react-dark&bg_color=0d0221&color=e62429&line=00d9ff&point=ffffff&area_color=e62429&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/Fardeen37/Fardeen37/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
@@ -201,13 +208,13 @@ Computer Vision, NLP, and Deep Learning. Turning raw notebooks into shipped prod
 <td width="50%" valign="top" align="center">
 
 **🏎️ Off-Duty**
-High-performance automotive culture, gaming, and music.
+High-performance automotive culture, gaming, and dark-glass UI aesthetics.
 
 </td>
 <td width="50%" valign="top" align="center">
 
 **🍳 Side Quests**
-Experimenting with baking & trying different sauce recipes when I'm not experimenting with model architectures.
+Experimenting with sauce recipes when I'm not experimenting with model architectures.
 
 </td>
 </tr>
