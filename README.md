@@ -230,6 +230,19 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <div align="center">
 
+##📜 Web-Slinger's Guestbook
+<i>Want to leave a mark on the web? Sign the guestbook!</i><br/><br/>
+
+<a href="https://github.com/Fardeen37/Fardeen37/issues/new?title=Signed%20the%20Guestbook!&body=Just%20dropping%20by%20to%20say%20hello!%20🕸️"><img src="https://img.shields.io/badge/Sign_The_Guestbook-e62429?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0d0221" /></a>
+&nbsp;
+<a href="https://github.com/Fardeen37/Fardeen37/issues"><img src="https://img.shields.io/badge/View_Signatures-00d9ff?style=for-the-badge&logo=github&logoColor=e62429&labelColor=0d0221" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 📰 The Daily Bugle Feed
 
 </div>
