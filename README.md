@@ -37,7 +37,7 @@ Data Fardeen
 > role
 AI Engineer & Full Stack / Vibe Coder ⚡
 > university
-SZABIST Islamabad (BS Artificial Intelligence - 6th Semester)
+SZABIST Islamabad (BS Artificial Intelligence - 7th Semester)
 > department
 Robotics & Artificial Intelligence (Class Representative)
 > stack
