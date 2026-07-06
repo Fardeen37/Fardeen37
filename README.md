@@ -94,6 +94,21 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <br/>
 
+<div align="center">
+
+## 💻 Web-Slinger's Arsenal
+<sub>The hardware powering the web-swinging</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/CPU-Core_i7-00d9ff?style=flat-square&logo=intel&logoColor=e62429&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/GPU-RTX_4060-e62429?style=flat-square&logo=nvidia&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/RAM-32GB-00d9ff?style=flat-square&logo=crucial&logoColor=e62429&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/OS-Windows_11-e62429?style=flat-square&logo=windows11&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/Editor-VS_Code-00d9ff?style=flat-square&logo=visualstudiocode&logoColor=e62429&labelColor=0d0221" />
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:00d9ff,100:E62429&height=4&section=header" width="100%"/>
 
 <div align="center">
@@ -160,7 +175,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <br/><br/>
 
-<h3> 2026 Vibe Coder Progress</h3>
+<h3>🦠 2026 Vibe Coder Progress</h3>
 <sub>Defeating the "Procrastination Boss" one commit at a time</sub><br/><br/>
 
 <img src="boss-bar.svg?v=2" width="500" alt="Boss HP Bar" /><br/>
@@ -291,5 +306,18 @@ Experimenting with baking & sauce recipes when I'm not experimenting with model 
 <img src="https://readme-typing-svg.demolab.com/?font=Bangers&size=30&duration=2500&pause=1000&color=E62429,gradient&center=true&vCenter=true&width=500&lines=With+great+code+comes+great+responsibility." />
 
 </div>
+
+<!-- EASTER EGG -->
+<details>
+<summary><b>🎭 Click to reveal Spider-Man's Secret Identity</b></summary>
+<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=500&color=E62429&center=true&vCenter=true&width=400&lines=Identity+Protected...;Just+kidding,+it's+Fardeen!+👨‍💻" alt="Secret Identity" />
+<br/>
+<sub>Feature unlocked. You earned an extra vibe point. ⚡</sub>
+</div>
+</details>
+
+<br/>
 
 <img src="footer-web.svg" width="100%" alt="Spider Web Footer"/>
