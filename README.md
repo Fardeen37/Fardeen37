@@ -100,8 +100,8 @@ Currently leveling up repos below — actively pushing commits ⚡
 <sub>The hardware powering the web-swinging</sub><br/><br/>
 
 <img src="https://img.shields.io/badge/CPU-Core_i7-00d9ff?style=flat-square&logo=intel&logoColor=e62429&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/GPU-RTX_4060-e62429?style=flat-square&logo=nvidia&logoColor=00d9ff&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/RAM-32GB-00d9ff?style=flat-square&logo=crucial&logoColor=e62429&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/GPU-AMD Radeon (TM) R7 M340-e62429?style=flat-square&logo=nvidia&logoColor=00d9ff&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/RAM-16GB-00d9ff?style=flat-square&logo=crucial&logoColor=e62429&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/OS-Windows_11-e62429?style=flat-square&logo=windows11&logoColor=00d9ff&labelColor=0d0221" />
 <img src="https://img.shields.io/badge/Editor-VS_Code-00d9ff?style=flat-square&logo=visualstudiocode&logoColor=e62429&labelColor=0d0221" />
 
