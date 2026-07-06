@@ -160,7 +160,7 @@ Currently leveling up repos below — actively pushing commits ⚡
 
 <br/><br/>
 
-<h3>🦠 2026 Vibe Coder Progress</h3>
+<h3> 2026 Vibe Coder Progress</h3>
 <sub>Defeating the "Procrastination Boss" one commit at a time</sub><br/><br/>
 
 <img src="boss-bar.svg?v=2" width="500" alt="Boss HP Bar" /><br/>
