@@ -35,7 +35,7 @@
 > whoami
 Data Fardeen
 > role
-AI Engineer & Full Stack / Vibe Coder ⚡
+AI Engineer & Full Stack / Vibe Engineer ⚡
 > university
 SZABIST Islamabad (BS Artificial Intelligence - 7th Semester)
 > department
